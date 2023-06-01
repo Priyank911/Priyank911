@@ -1,5 +1,7 @@
+![logo](https://github.com/Priyank911/Priyank911/blob/main/LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Priyank Panchal S.</h1>
 <h3 align="center">A Passionate Developer from India.</h3>
+<img align="right" alt="coding" width="400" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyank911&label=Profile%20views&color=0e75b6&style=flat" alt="priyank911" /> </p>
 
 - 🔭 I’m currently working on [Google Cloud](https://www.cloudskillsboost.google/public_profiles/b5b200ec-67a3-41b4-8b49-6ad7c2fb8677)
