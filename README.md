@@ -1,4 +1,4 @@
-![logo](https://github.com/Priyank911/Priyank911/blob/main/LinkedIn%20Banner.jpg)
+![logo](https://github.com/Priyank911/Priyank911/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Priyank Panchal S.</h1>
 <h3 align="center">A Passionate Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"> 
