@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Google Cloud](https://www.cloudskillsboost.google/public_profiles/b5b200ec-67a3-41b4-8b49-6ad7c2fb8677)
 
-- 🌱 I’m currently learning **Cloud Computing, C++**
+- 🌱 I’m currently learning **Cloud Computing, JAVA**
 
 - 👯 I’m looking to collaborate on [Google Developer Group](https://g.dev/Developer_Priyank911)
 
