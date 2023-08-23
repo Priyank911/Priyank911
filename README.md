@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Google Developer Group](https://g.dev/Developer_Priyank911)
 
-- 💬 Ask me about **Fronted Works**And**Android_App**
+- 💬 Ask me about **Fronted Works** And **Android_App**
 
 - 📫 How to reach me **panchalpriyankfullstack@gmail.com**
 
