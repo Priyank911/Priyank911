@@ -28,5 +28,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/developer911"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developer911" /></a></p><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyank911&show_icons=true&locale=en" alt="priyank911" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyank911&" alt="priyank911" /></p>
+<p><img align="center" src="https://pbs.twimg.com/card_img/1710283933965828096/E9BwSI7X?format=jpg&name=small" alt="priyank911"/> </p>
+<p><img align="center" src="https://holopin.me/priyank911" alt="priyank911"/> </p>
