@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://codepen.io/priyank_coder911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priyank_coder911" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyank-panchal-coder0911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyank-panchal-coder0911" height="30" width="40" /></a>
-<a href="https://instagram.com/@developer_priyank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@developer_priyank" height="30" width="40" /></a>
+<a href="https://instagram.com/@developer_priyank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@developer_priyank" height="100" width="150" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +28,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/developer911"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developer911" /></a></p><br><br>
-<p><img align="center" src="https://pbs.twimg.com/card_img/1710283933965828096/E9BwSI7X?format=jpg&name=small" alt="priyank911"/> </p>
+<img src="https://github.com/Priyank911/Priyank911/blob/main/Hacksquad%20(2).png" alt="HackSquad_Ticket" height="400"/>
 <p><img align="center" src="https://holopin.me/priyank911" alt="priyank911"/> </p>
