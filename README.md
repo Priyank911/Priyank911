@@ -28,5 +28,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/developer911"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developer911" /></a></p><br><br>
-<img src="https://github.com/Priyank911/Priyank911/blob/main/Hacksquad%20(2).png" alt="HackSquad_Ticket" height="400"/>
 <p><img align="center" src="https://holopin.me/priyank911" alt="priyank911"/> </p>
