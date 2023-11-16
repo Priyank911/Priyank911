@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyank911&label=Profile%20views&color=0e75b6&style=flat" alt="priyank911" /> </p>
 
-- 🔭 I’m currently working on [Google Cloud](https://www.cloudskillsboost.google/public_profiles/b5b200ec-67a3-41b4-8b49-6ad7c2fb8677)
+- 🔭 I’m currently working on [App Development](https://github.com/Priyank911?tab=repositories)
 
-- 🌱 I’m currently learning **Cloud Computing, JAVA**
+- 🌱 I’m currently learning **App Development, JAVA**
 
 - 👯 I’m looking to collaborate on [Google Developer Group](https://g.dev/Developer_Priyank911)
 
