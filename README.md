@@ -1,6 +1,6 @@
 ![logo](https://github.com/Priyank911/Priyank911/blob/main/Tweet_cover.png)
 <h1 align="center">Hi 👋, I'm Priyank Panchal s</h1>
-<h3 align="center">Aspiring CSE Talent: Navigating Web Development, Android, iOS, and UI/UX Mastery</h3>
+<h3 align="center">Frontend Dev 💻 | Open Source Contributor 🤝 | LeetCode Problem Solver 🔍 | Learning iOS Dev (Swift) 📱 | Exploring Android Dev 🚀✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyank911&label=Profile%20views&color=0e75b6&style=flat" alt="Priyank911" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyank911&theme=" alt="Priyank911" /></a> </p>
