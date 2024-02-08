@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [Android / IOS Development ](https://github.com/Priyank911?tab=repositories)
 - 👯 I’m looking to collaborate on [Google Developer Group ](https://g.dev/Developer_Priyank911)
-- 💬 Ask me about **Fronted Work | UI/UX**
 - 🌱 I’m currently learning **Python | IOS Dev | Android Dev**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **panchalpriyankfullstack@gmail.com**
