@@ -1,4 +1,4 @@
-![logo](https://github.com/Priyank911/Priyank911/blob/main/Tweet_cover.png)
+![logo](https://github.com/Priyank911/Priyank911/blob/main/Developer_Priyanklinkdein.png)
 <h1 align="center">Hi 👋, I'm Priyank Panchal s</h1>
 <h3 align="center">Frontend Dev 💻 | Open Source Contributor 🤝 | LeetCode Problem Solver 🔍 | Learning iOS Dev (Swift) 📱 | Exploring Android Dev 🚀✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyank911&label=Profile%20views&color=0e75b6&style=flat" alt="Priyank911" /> </p>
