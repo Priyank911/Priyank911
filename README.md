@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **BlockChain | IOS App Development**
 
- 💬 Ask me about **Java, Android, Firebase, UI|UX... or anything [here]([https://github.com/](https://github.com/Priyank911/Priyank911/issues))**
+ 💬 Ask me about **Java, Android, Firebase, UI|UX... or anything [here](https://github.com/Priyank911/Priyank911/issues)**
 
  ⚡ Be Motivate  **Coder's Never Quit**
  
