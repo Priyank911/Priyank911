@@ -1,4 +1,4 @@
-![logo](https://github.com/Priyank911/Priyank911/blob/main/Developer_Priyanklinkdein.png)
+![logo](https://github.com/Priyank911/Priyank911/blob/main/Github.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
