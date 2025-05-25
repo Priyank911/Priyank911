@@ -1,72 +1,70 @@
-![logo](https://github.com/Priyank911/Priyank911/blob/main/Github.png)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+```
+$ typing...
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyank.!;" />
-</h1>
+          .-"              Terminal               "-.
+       .-'    ___   _   _  ___  _   _   _  _    _     '-.
+      |     | _ \ /_\ | |/ __|| | | | | || |  (_)       |
+      |     |  _/ / _ \| |\__ \| |_| |_| || |_  _   🚀   |
+      |     |_| /_/ \_\_| |___/ \___|___/ |___|| |      |
+      |                                  |_|   |_|      |
+       '-.    Blockchain | Android | Full-Stack    .-'
 
-<h3 align="center">A passionate Android Developer | Frontend | UI/UX </h3>
+═══════════════════════════════════════════════════════════
+> system info
 
-<br/>
+🧠 Languages      : Java, Kotlin, Swift, Python, C
+💻 Platforms       : Android, iOS, Web
+⚙️ Tools & IDEs    : VSCode, Android Studio, Postman, Firebase
+🎨 Focus           : UI/UX Design, App Development, Blockchain
+🛠️ Frameworks     : Spring, Maven, TailwindCSS
+📱 Editor(s)       : Vim, VSCode
+🖥️ Currently on   : Web3, Blockchain, System Design 
+🏆 Highlights      : Hacktoberfest'23, Certified Apple Teacher
+📈 Motto           : "Coders Never Quit." ⚡
+
+═══════════════════════════════════════════════════════════
+> now playing
+
+🎧 Vibes          : Chill Beats | Coding Lo-Fi
+🎮 Fun : Creating innovative and out-of-the-box experiences
+
+═══════════════════════════════════════════════════════════
+> fun fact
+
+🔥 Loves creative UI, animated interactions, and hackathons!
+🌐 Portfolio Soon™ | Always down to collab!
+
+═══════════════════════════════════════════════════════════
+> final log
+
+“Stay consistent. Stay curious. Stay creating.” ☕🚀
+═══════════════════════════════════════════════════════════
+```
+
+**Currently Working On:** `Web3` • `Blockchain` • `System Design`  
+**Ask Me About:** `Web3 | Blockchain` • `Android Development` • `System Architecture`
+
+---
 
 <div align="center">
- 
- 🔭 I’m currently working on **Maven | Spring | Android**
- 
- 🌱 I’m currently learning **BlockChain | IOS App Development**
 
- 💬 Ask me about **Java, Android, Firebase, UI|UX... or anything [here](https://github.com/Priyank911/Priyank911/issues)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
- ⚡ Be Motivate  **Coder's Never Quit**
- 
- </div>
- 
-<div align="center"> 
-      <a href="https://x.com/dev_priyank_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyankpanchal-coder0911/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://instagram.com/developer.priyank" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:panchalpriyankfullstack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyank911&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyank911&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+**Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyankpanchal-coder0911/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/dev_priyank_) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:panchalpriyankfullstack@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/developer.priyank)
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,kotlin,c,swift" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,java,mysql,maven,spring,androidstudio,postman" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Let's+build+something+amazing+%F0%9F%9A%80" />
 </div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Priyank911&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Priyank911&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Priyank911&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>
-
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-<br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>
-<h3 align="center">Hacktoberfest'23 Digital Swags</h3>
-<p><img align="center" src="https://holopin.me/priyank911" alt="priyank911"/> </p>
-</p>
-  <br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/developer911"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/developer911" /></a></p><br><br>
