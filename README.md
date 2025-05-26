@@ -25,8 +25,8 @@ $ typing...
 ═══════════════════════════════════════════════════════════
 > now playing
 
-🎧 Vibes          : Chill Beats | Coding Lo-Fi
-🎮 Fun : Creating innovative and out-of-the-box experiences
+🎧 Vibes  : Chill Beats | Coding Lo-Fi
+🎮 Fun    : Creating innovative and out-of-the-box experiences
 
 ═══════════════════════════════════════════════════════════
 > fun fact
