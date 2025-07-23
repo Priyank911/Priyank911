@@ -12,11 +12,11 @@ $ typing...
 ═══════════════════════════════════════════════════════════
 > system info
 
-🧠 Languages      : Java, Kotlin, Swift, Python, C
-💻 Platforms       : Android, iOS, Web
+🧠 Languages      : Java, Kotlin, Swift, Python, JavaScript
+💻 Platforms       : Android, Web
 ⚙️ Tools & IDEs    : VSCode, Android Studio, Postman, Firebase
-🎨 Focus           : UI/UX Design, App Development, Blockchain
-🛠️ Frameworks     : Spring, Maven, TailwindCSS
+🎨 Focus           : App Development, Blockchain, Full Stack
+🛠️ Frameworks     : React, Vue
 📱 Editor(s)       : Vim, VSCode
 🖥️ Currently on   : Web3, Blockchain, System Design 
 🏆 Highlights      : Hacktoberfest'23, Certified Apple Teacher
