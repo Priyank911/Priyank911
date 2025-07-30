@@ -44,7 +44,6 @@ $ typing...
 **Currently Working On:** `Web3` • `Blockchain` • `System Design`  
 **Ask Me About:** `Web3 | Blockchain` • `Android Development` • `System Architecture`
 
----
 
 <div align="center">
 
@@ -53,10 +52,6 @@ $ typing...
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyank911&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Priyank911&theme=react&hide_border=true" alt="Priyank911's GitHub Stats" />
-
-</div>
 
 ---
 
