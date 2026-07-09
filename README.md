@@ -4,7 +4,8 @@
 
 ### Hey, I'm
 # Priyank
-**Software · AI Systems Engineer · Blockchain Developer**
+##### `Full-Stack Engineer` · `AI-Native Systems` · `Blockchain Developer`
+
 
 ### Tech Stack
 
